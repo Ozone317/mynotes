@@ -1,0 +1,2 @@
+# mynotes
+Mynotes flutter application
