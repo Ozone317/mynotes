@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356636784514",
+    "project_id": "mynotes-flutter-dart",
+    "storage_bucket": "mynotes-flutter-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356636784514:android:37ad2a53223458e2f4c19b",
+        "android_client_info": {
+          "package_name": "com.makingstuffup.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356636784514-djmblkvq5lon5je3gdum5vmveae83obm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vk1kYMeLmOWMidhYtOAzKoaGXQvEcxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356636784514-djmblkvq5lon5je3gdum5vmveae83obm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
